@@ -1,0 +1,12 @@
+[package]
+name = "kubectx-rs"
+version = "1.0.0"
+authors = ["François-Guillaume RIBREAU <github@fgribreau.com>"]
+include = ["src/main.rs", "Cargo.tml", "README.md"]
+description = "Switch between Kubernetes contexts"
+readme="README.md"
+keywords= ["kubectl", "kubernetes", "contexts", "cli", "interface"]
+categories= ["command-line-utilities", "development-tools"]
+
+[dependencies]
+dialoguer = "0.1.0"
