@@ -3,10 +3,13 @@ name = "kubectx-rs"
 version = "1.0.0"
 authors = ["François-Guillaume RIBREAU <github@fgribreau.com>"]
 include = ["src/main.rs", "Cargo.tml", "README.md"]
+documentation = "https://docs.rs/kubectx"
+homepage = "https://github.com/FGRibreau/kubectx-rs"
+repository = "https://github.com/FGRibreau/kubectx-rs"
 description = "Switch between Kubernetes contexts"
-readme="README.md"
+readme= "README.md"
 keywords= ["kubectl", "kubernetes", "contexts", "cli", "interface"]
 categories= ["command-line-utilities", "development-tools"]
-
+license= "MIT"
 [dependencies]
 dialoguer = "0.1.0"
