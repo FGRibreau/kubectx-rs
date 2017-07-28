@@ -2,7 +2,7 @@
 name = "kubectx-rs"
 version = "1.0.0"
 authors = ["François-Guillaume RIBREAU <github@fgribreau.com>"]
-include = ["src/main.rs", "Cargo.tml", "README.md"]
+include = ["src/main.rs", "Cargo.toml"]
 documentation = "https://docs.rs/kubectx"
 homepage = "https://github.com/FGRibreau/kubectx-rs"
 repository = "https://github.com/FGRibreau/kubectx-rs"
