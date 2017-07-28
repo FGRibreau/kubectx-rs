@@ -4,16 +4,16 @@ Fastest switch between Kubernetes contexts 🏎.
 
 ![kubectx](/docs/kubectx.gif)
 
-### Setup
+### Installation
 
 ```bash
-npm i kubectx -g
+cargo install kubectx
 ```
 
 ### Usage
 
 ```sh
-➜  / kubectx
+$ kubectx
 --Select kubectl context (Use arrow keys)
   image-charts-production
 ❯ killbug-development
@@ -27,4 +27,5 @@ npm i kubectx -g
 
 #### Related work
 
-kubectx is completly inspired by [kubectx](https://github.com/ahmetb/kubectx) from Ahmet Alp Balkan. I personally prefer the interactive way that's why this project exist :).
+- kubectx is completly inspired by [kubectx](https://github.com/ahmetb/kubectx) from Ahmet Alp Balkan. I personally prefer the interactive way that's why this project exist :).
+- before this Rust version, [kubectx was wrote over NodeJS](https://github.com/FGRibreau/kubectx).
