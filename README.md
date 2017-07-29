@@ -1,5 +1,8 @@
 # kubectx
 
+[![Build Status](https://travis-ci.org/FGRibreau/kubectx-rs.svg?branch=master)](https://travis-ci.org/FGRibreau/kubectx-rs) [![Build status](https://ci.appveyor.com/api/projects/status/9xsw4bboduma93tv/branch/master?svg=true)](https://ci.appveyor.com/project/FGRibreau/kubectx-rs/branch/master)
+
+
 Fastest switch between Kubernetes contexts 🏎.
 
 ![kubectx](/docs/kubectx.gif)
