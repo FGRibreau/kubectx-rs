@@ -1,6 +1,6 @@
 [package]
 name = "kubectx"
-version = "1.0.0"
+version = "1.0.2"
 authors = ["François-Guillaume RIBREAU <github@fgribreau.com>"]
 include = ["src/main.rs", "Cargo.toml"]
 documentation = "https://docs.rs/kubectx"
