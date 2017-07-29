@@ -7,9 +7,12 @@ Fastest switch between Kubernetes contexts 🏎.
 
 ![kubectx](/docs/kubectx.gif)
 
+
+### [Download pre-built binaries](https://github.com/FGRibreau/kubectx-rs/releases)
+
 ### Installation
 
-```bash
+```shell
 cargo install kubectx
 ```
 
