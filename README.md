@@ -34,4 +34,4 @@ $ kubectx
 #### Related work
 
 - kubectx is completly inspired by [kubectx](https://github.com/ahmetb/kubectx) from Ahmet Alp Balkan. I personally prefer the interactive way that's why this project exist :).
-- before this Rust version, [kubectx was wrote over NodeJS](https://github.com/FGRibreau/kubectx).
+- before this Rust version, [kubectx was written in JavaScript with NodeJS](https://github.com/FGRibreau/kubectx).
