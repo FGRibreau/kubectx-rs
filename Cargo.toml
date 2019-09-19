@@ -12,4 +12,4 @@ keywords= ["kubectl", "kubernetes", "contexts", "cli", "interface"]
 categories= ["command-line-utilities", "development-tools"]
 license= "MIT"
 [dependencies]
-dialoguer = "0.1.0"
+dialoguer = "0.4.0"
